@@ -37,28 +37,28 @@
           <Group type="102" attributes="0">
               <EmptySpace max="-2" attributes="0"/>
               <Group type="103" groupAlignment="0" attributes="0">
-                  <Component id="bt10" alignment="0" min="-2" pref="41" max="-2" attributes="0"/>
-                  <Component id="bt20" alignment="0" min="-2" pref="41" max="-2" attributes="0"/>
-                  <Component id="bt00" alignment="0" min="-2" pref="41" max="-2" attributes="0"/>
-              </Group>
-              <EmptySpace type="separate" max="-2" attributes="0"/>
-              <Group type="103" groupAlignment="0" attributes="0">
-                  <Component id="bt11" alignment="0" min="-2" pref="41" max="-2" attributes="0"/>
-                  <Component id="bt21" alignment="0" min="-2" pref="41" max="-2" attributes="0"/>
-                  <Component id="bt01" alignment="0" min="-2" pref="41" max="-2" attributes="0"/>
-              </Group>
-              <EmptySpace type="separate" max="-2" attributes="0"/>
-              <Group type="103" groupAlignment="0" attributes="0">
-                  <Component id="bt12" alignment="0" min="-2" pref="41" max="-2" attributes="0"/>
-                  <Component id="bt22" alignment="0" min="-2" pref="41" max="-2" attributes="0"/>
-                  <Component id="bt02" alignment="0" min="-2" pref="41" max="-2" attributes="0"/>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="bt10" alignment="0" min="-2" pref="41" max="-2" attributes="0"/>
+                          <Component id="bt20" alignment="0" min="-2" pref="41" max="-2" attributes="0"/>
+                          <Component id="bt00" alignment="0" min="-2" pref="41" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="bt11" alignment="0" min="-2" pref="41" max="-2" attributes="0"/>
+                          <Component id="bt21" alignment="0" min="-2" pref="41" max="-2" attributes="0"/>
+                          <Component id="bt01" alignment="0" min="-2" pref="41" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="bt12" alignment="0" min="-2" pref="41" max="-2" attributes="0"/>
+                          <Component id="bt22" alignment="0" min="-2" pref="41" max="-2" attributes="0"/>
+                          <Component id="bt02" alignment="0" min="-2" pref="41" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Component id="btNovoJogo" alignment="0" min="-2" max="-2" attributes="0"/>
               </Group>
               <EmptySpace max="32767" attributes="0"/>
-          </Group>
-          <Group type="102" alignment="1" attributes="0">
-              <EmptySpace max="32767" attributes="0"/>
-              <Component id="btNovoJogo" min="-2" max="-2" attributes="0"/>
-              <EmptySpace max="-2" attributes="0"/>
           </Group>
       </Group>
     </DimensionLayout>
@@ -89,9 +89,9 @@
                       <Component id="bt20" min="-2" pref="41" max="-2" attributes="0"/>
                   </Group>
               </Group>
-              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <EmptySpace pref="18" max="32767" attributes="0"/>
               <Component id="btNovoJogo" min="-2" max="-2" attributes="0"/>
-              <EmptySpace max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
           </Group>
       </Group>
     </DimensionLayout>
